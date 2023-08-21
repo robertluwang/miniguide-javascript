@@ -125,7 +125,7 @@ async function fetchDataAsync() {
 })();
 ```
 
-In this example, we simulate data fetching using three different asynchronous approaches: callbacks, promises, and async/await. Each approach achieves the same goal of fetching data asynchronously after a delay of 1 second. The console output will show the fetched data using each method.
+In this example, data fetching is simulated using three different asynchronous approaches: callbacks, promises, and async/await. Each approach achieves the same goal of fetching data asynchronously after a delay of 1 second. The console output will show the fetched data using each method.
 
 run result
 
