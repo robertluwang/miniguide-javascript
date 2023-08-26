@@ -78,13 +78,8 @@ So, without further ado, let's dive into the core principles of JavaScript and s
     - Using the browser console for debugging
     - Debugging techniques and common errors
 
-14. [**Best Practices**](14-best-practice.md)
-    - Proper code formatting and indentation
-    - Using meaningful variable/function names
-    - Commenting your code
+14. [**Further Reading**](14-further-reading.md)
 
-15. [**Resources for Further Learning**](15-further-learning.md)
-    - Online tutorials, documentation, and communities
-    - Recommended books and courses
+
 
 
