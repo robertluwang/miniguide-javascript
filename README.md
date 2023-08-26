@@ -1,8 +1,6 @@
 # Javascript MiniGuide
 
-Robert Wang
-
-Aug 19, 2023
+Copyright © 2023 by Robert Wang
 
 Welcome to the JavaScript MiniGuide, a concise resource designed to help you quickly grasp the fundamental concepts of JavaScript programming. 
 
